@@ -1,7 +1,7 @@
 # Physics-informed Data-driven Modeling of a Two-DoF Robot Arm
 Utilized JAX and Keras for an optimized implementation of Lagrangian Neural Networks. This model was used for learning the dynamics of a two-DoF robot arm.
 
-** Important Note: This repository is distributed under the MIT License. You may use, copy, modify, and distribute it, as long as you include the original copyright and license notice. **
+**Important Note: This repository is distributed under the MIT License. You may use, copy, modify, and distribute it, as long as you include the original copyright and license notice.**
 
 ## Two-DoF Robot Arm
 <img width="390" height="418" alt="image" src="https://github.com/user-attachments/assets/13daa019-7373-4ae6-98bd-69d958df44a2" />
